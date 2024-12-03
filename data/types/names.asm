@@ -21,6 +21,7 @@ ENDR
 	dw .Psychic
 	dw .Ice
 	dw .Dragon
+	dw. Dark
 
 .Normal:   db "NORMAL@"
 .Fighting: db "FIGHTING@"
@@ -38,3 +39,4 @@ ENDR
 .Bug:      db "BUG@"
 .Ghost:    db "GHOST@"
 .Dragon:   db "DRAGON@"
+.Dark	   db "DARK@"
