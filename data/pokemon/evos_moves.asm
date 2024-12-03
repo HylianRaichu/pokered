@@ -965,6 +965,7 @@ JynxEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+	db 13, POWDER_SNOW
 	db 18, LICK
 	db 23, DOUBLESLAP
 	db 31, ICE_PUNCH
