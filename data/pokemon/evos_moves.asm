@@ -365,6 +365,7 @@ NidoranFEvosMoves:
 	db 29, BITE
 	db 36, FURY_SWIPES
 	db 43, DOUBLE_KICK
+	db 47, CRUNCH
 	db 0
 
 NidoqueenEvosMoves:
@@ -437,6 +438,7 @@ GyaradosEvosMoves:
 	db 25, DRAGON_RAGE
 	db 32, LEER
 	db 41, HYDRO_PUMP
+	db 47, CRUNCH
 	db 52, HYPER_BEAM
 	db 0
 
@@ -1910,6 +1912,7 @@ NidorinaEvosMoves:
 	db 32, BITE
 	db 41, FURY_SWIPES
 	db 50, DOUBLE_KICK
+	db 53, CRUNCH
 	db 0
 
 GeodudeEvosMoves:
