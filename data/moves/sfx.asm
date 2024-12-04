@@ -166,5 +166,6 @@ MoveSoundTable:
 	db SFX_BATTLE_2C,          $d8, $04 ; SUBSTITUTE
 	db SFX_BATTLE_28,          $40, $80 ; POWDER_SNOW
 	db SFX_BATTLE_1B,          $01, $a0 ; MUD_SLAP
+	db SFX_BATTLE_1E,          $00, $80 ; CRUNCH
 	db SFX_BATTLE_0B,          $00, $80 ; STRUGGLE
 	db SFX_BATTLE_0B,          $00, $80
