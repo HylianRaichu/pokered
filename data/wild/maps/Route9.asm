@@ -4,7 +4,7 @@ Route9Mons:
 	db 16, SPEAROW
 	db 14, RATTATA
 IF DEF(_RED)
-	db 11, EKANS
+	db 11, SANDSHREW
 	db 13, SPEAROW
 	db 15, EKANS
 	db 17, RATTATA
