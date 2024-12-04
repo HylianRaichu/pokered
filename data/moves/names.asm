@@ -165,4 +165,5 @@ MoveNames::
 	db "SUBSTITUTE@"
 	db "POWDER SNOW@"
 	db "MUD SLAP@"
+	db "CRUNCH@"
 	db "STRUGGLE@"
