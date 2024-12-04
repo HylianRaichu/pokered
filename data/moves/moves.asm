@@ -177,4 +177,5 @@ MoveEnd:
 	move SUBSTITUTE,   SUBSTITUTE_EFFECT,            0, NORMAL,       100, 10
 	move POWDER_SNOW,  FREEZE_SIDE_EFFECT,          40, ICE,          100, 30
 	move MUD_SLAP,     ACCURACY_DOWN1_EFFECT,       20, GROUND,       100, 10
+	move CRUNCH,	   SPECIAL_DOWN_SIDE_EFFECT,    80, DARK,         100, 15
 	move STRUGGLE,     RECOIL_EFFECT,               50, NORMAL,       100, 10
