@@ -165,6 +165,7 @@ AttackAnimationPointers:
 	dw SubstituteAnim
 	dw PowderSnowAnim
 	dw MudSlapAnim
+	dw CrunchAnim
 	dw StruggleAnim
 	dw ShowPicAnim
 	dw EnemyFlashAnim
@@ -1146,6 +1147,10 @@ PowderSnowAnim:
 
 MudSlapAnim:
 	battle_anim SAND_ATTACK, SUBANIM_28, 1, 6
+	db -1 ; end
+
+CrunchAnim:
+	battle_anim BITE, SUBANIM_02, 0, 8
 	db -1 ; end
 
 BallTossAnim:
