@@ -849,6 +849,7 @@ DiglettEvosMoves:
 	db 15, GROWL
 	db 19, DIG
 	db 24, SAND_ATTACK
+	db 28, MUD_SLAP
 	db 31, SLASH
 	db 40, EARTHQUAKE
 	db 0
@@ -1427,6 +1428,7 @@ DugtrioEvosMoves:
 	db 15, GROWL
 	db 19, DIG
 	db 24, SAND_ATTACK
+	db 28, MUD_SLAP
 	db 35, SLASH
 	db 47, EARTHQUAKE
 	db 0
